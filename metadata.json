@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio React App",
+  "description": "React app built with AI Studio",
+  "requestFramePermissions": ["camera", "microphone"]
+}
